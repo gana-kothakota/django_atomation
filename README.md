@@ -1,2 +1,2 @@
-# django_atomation
-django_atomation
+# Django_automation
+automation scripts
